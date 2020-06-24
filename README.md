@@ -31,6 +31,9 @@ The last part is optional, this is the led part. We can add some information lig
 Don't hesitate to look at crefully the schema and adapt it for your need if you want ! 
 
 ## Program
+
+![UselessBox mehaviours](https://github.com/gollgot/uselessBox/blob/master/img/UB_behaviours.gif "UselessBox behaviours")
+
 The program that I wrote contains 3 differents behaviors.
 - **Behaviour0**: Just after you toggle the button, the box will reply by toggle back the button as fast as possible. 
 - **Behaviour1**: The box will fake that he miss the button and after 1000ms he will toggle back the button.
