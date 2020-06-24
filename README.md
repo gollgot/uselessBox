@@ -1,5 +1,5 @@
 # Useless Box
-Here you can find informations (schema, programm, images) to create your own useless box using Arduino board ! 
+Here you can find informations (schema, program, images) to create your own useless box using Arduino board ! 
 
 ![Useless Box finish img](https://github.com/gollgot/uselessBox/blob/master/img/UB_finish.png "Useless Box finish")
 
