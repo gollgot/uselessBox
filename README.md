@@ -1,6 +1,8 @@
 # Useless Box
 Here you can find a whole tutorial to create your own useless box using Arduino board ! 
 
+![Useless Box finish img](https://github.com/gollgot/uselessBox/blob/master/img/UB_finish.png "Useless Box finish")
+
 ## Prerequisites
 
 - 1 Arduino Uno
