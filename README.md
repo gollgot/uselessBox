@@ -30,10 +30,10 @@ Don't hesitate to look at crefully the schema and adapt it for your need if you 
 
 ## Programm
 The programm I wrote contains 3 differents behaviors.
-- Behaviour0: Just after you toggle the button, the box will reply by toggle back the button as fast as possible. 
-- Behaviour1: The box will fake that he miss the button and after 1000ms he will toggle back the button.
-- Behaviour2: The box will stop the arm just in front of the button, wait 1000ms and toggle back the button.
+- **Behaviour0**: Just after you toggle the button, the box will reply by toggle back the button as fast as possible. 
+- **Behaviour1**: The box will fake that he miss the button and after 1000ms he will toggle back the button.
+- **Behaviour2**: The box will stop the arm just in front of the button, wait 1000ms and toggle back the button.
 
-All those behaviour will be choose randomly when you'll toggle the button.
+All those behaviours will be choose randomly when you'll toggle the button.
 
 */!\ Maybe you'll need to adapt the angle of each behaviour, because they have been calculated for my motor position /!\\*
