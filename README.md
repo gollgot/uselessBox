@@ -1,5 +1,5 @@
 # Useless Box
-Here you can find a whole tutorial to create your own useless box using Arduino board ! 
+Here you can find informations (schema, programm, images) to create your own useless box using Arduino board ! 
 
 ![Useless Box finish img](https://github.com/gollgot/uselessBox/blob/master/img/UB_finish.png "Useless Box finish")
 
@@ -39,3 +39,10 @@ The program that I wrote contains 3 differents behaviors.
 All those behaviours will be choose randomly when you'll toggle the button.
 
 */!\ Maybe you'll need to adapt the angle of each behaviour, because they have been calculated for my motor position /!\\*
+
+## Images
+![UselessBox motor](https://github.com/gollgot/uselessBox/blob/master/img/UB_motor.png "UselessBox motor")
+
+![UselessBox open 1](https://github.com/gollgot/uselessBox/blob/master/img/UB_open1.png "UselessBox open 1")
+
+![UselessBox open 2](https://github.com/gollgot/uselessBox/blob/master/img/UB_open2.png "UselessBox open 2")
