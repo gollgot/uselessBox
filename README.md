@@ -27,3 +27,13 @@ We'll also have a servo motor that will be plugged into the 9th PWN pin of the A
 The last part is optional, this is the led part. We can add some information light like the green led that will inform us that the board is power on and ready to run. The second led is the red one that will inform us that the motor is running.
 
 Don't hesitate to look at crefully the schema and adapt it for your need if you want ! 
+
+## Programm
+The programm I wrote contains 3 differents behaviors.
+- Behaviour0: Just after you toggle the button, the box will reply by toggle back the button as fast as possible. 
+- Behaviour1: The box will fake that he miss the button and after 1000ms he will toggle back the button.
+- Behaviour2: The box will stop the arm just in front of the button, wait 1000ms and toggle back the button.
+
+All those behaviour will be choose randomly when you'll toggle the button.
+
+*/!\ Maybe you'll need to adapt the angle of each behaviour, because they have been calculated for my motor position /!\\*
